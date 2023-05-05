@@ -1,4 +1,4 @@
-### PLOM App
+### Loan Management 
 
 This is the backend for the plom app.
 Personal loans, peer to peer lendings and adashi (user contributions/crowd funding scheme) 
